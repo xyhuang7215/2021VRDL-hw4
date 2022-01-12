@@ -1,7 +1,8 @@
 ## VRDL HW4
 
-SRResNet for super-resolution
-[Reference] (https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution)
+SRResNet for super-resolution 
+
+[Reference](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution)
 
 ## Colab
 You may use [Colab notebook](https://colab.research.google.com/drive/1MOqrqvGXgX_5dL4YEUCYepydTzmmBT0J?usp=sharing)(recommend) to get the inference result, or follow the instruction below.
